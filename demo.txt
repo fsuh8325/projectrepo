@@ -1,1 +1,1 @@
-This is the updated content in the main branch.
+This is the updated content in both main and feature branches.
